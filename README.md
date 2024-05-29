@@ -5,4 +5,5 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ![Uploading soquinho-no-ar-yuri-alberto.gif…]()
+![](https://tenor.com/eqxFPK7W5v4.gif)
 
